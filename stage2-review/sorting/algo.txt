@@ -1,0 +1,15 @@
+step 1 :
+	Take user input a,b,c .
+step 2:
+
+	Make an array and put the operation in the array.
+step 3:
+	print orignal array.
+step 4:
+	Create 2 nested for loop and create if statement in it after that 
+	put condition in it of greater number in 0th address then as per loop
+	1st ,2nd then 3rd address put value in accending order and print the 
+	array.
+step 4: 
+	Create another if condition less then and put the value in array in
+	 decending order and print the array. 

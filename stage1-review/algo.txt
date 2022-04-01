@@ -1,0 +1,23 @@
+step 1:
+Make a folder stage1-review using mkdir command.
+
+step 2:
+Make 3 file x.java, y.py, z.js using touch command.
+
+step 3:
+make 3 nested folder as per the file name and file extention
+ x/java
+ y/py
+z/js
+using mkdir -p command
+
+step 4:
+create two file using touch command day4.sh and algo.sh
+
+step5 :
+edit day4.sh file using nano command 
+  1. make a for loop.
+  2. start the for loop using do and close it using done command.
+  3. write move command {mv source destination}.
+  4. execute the code using bash command.
+ 
